@@ -2,7 +2,7 @@
 
 
 
-对应服务端的接入，请移步: [服务端接入文档](https://github.com/MagicDreamC/mksdk_IOS-4-0/blob/master/摩柯游戏平台sdk服务端接入文档%20v2.0.md)
+对应服务端的接入，请移步: [服务端接入文档](https://github.com/MagicDreamC/mksdk_IOS-4-1/blob/master/摩柯游戏平台sdk服务端接入文档%20v2.0.md)
 
 + 新增提示(2.0.18+, 3.0.3+)：
 ```objective-c
