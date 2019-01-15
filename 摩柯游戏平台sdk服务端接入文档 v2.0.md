@@ -8,7 +8,7 @@
 
 ## 1. 登录接口
 
-> `https://api.sdk.xxx.com/Api/Member/CheckLogin`
+> `https://api.lynaqi.cn/Api/Member/CheckLogin`
 >
 > 用于用户在SDK端登录之后，CP方与我方服务端异步交互验证手段，确保用户合法性。
 
